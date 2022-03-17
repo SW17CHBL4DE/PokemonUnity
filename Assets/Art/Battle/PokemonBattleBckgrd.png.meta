@@ -1,0 +1,4872 @@
+fileFormatVersion: 2
+guid: 2c1b3d01af0fea045a1ed48d22c281eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6768536108715713548
+    second: PokemonBattleBckgrd_0
+  - first:
+      213: 1111296673699219284
+    second: PokemonBattleBckgrd_1
+  - first:
+      213: 273821859387156663
+    second: PokemonBattleBckgrd_2
+  - first:
+      213: 3064166299012539535
+    second: PokemonBattleBckgrd_3
+  - first:
+      213: -4974598969367633009
+    second: PokemonBattleBckgrd_4
+  - first:
+      213: -4284411896226475811
+    second: PokemonBattleBckgrd_5
+  - first:
+      213: -3793199639979370304
+    second: PokemonBattleBckgrd_6
+  - first:
+      213: -3712407276245877986
+    second: PokemonBattleBckgrd_7
+  - first:
+      213: -1396932987504422606
+    second: PokemonBattleBckgrd_8
+  - first:
+      213: -6945445874920296976
+    second: PokemonBattleBckgrd_9
+  - first:
+      213: -3638915204127908405
+    second: PokemonBattleBckgrd_10
+  - first:
+      213: -4467052184285666177
+    second: PokemonBattleBckgrd_11
+  - first:
+      213: 200858494689026124
+    second: PokemonBattleBckgrd_12
+  - first:
+      213: 453859910899759029
+    second: PokemonBattleBckgrd_13
+  - first:
+      213: -7041954791239773875
+    second: PokemonBattleBckgrd_14
+  - first:
+      213: -8823210063348682052
+    second: PokemonBattleBckgrd_15
+  - first:
+      213: -6000857411363903227
+    second: PokemonBattleBckgrd_16
+  - first:
+      213: -4738329813531065072
+    second: PokemonBattleBckgrd_17
+  - first:
+      213: 8698765379896766757
+    second: PokemonBattleBckgrd_18
+  - first:
+      213: 1352988955505334366
+    second: PokemonBattleBckgrd_19
+  - first:
+      213: -3978693456424147711
+    second: PokemonBattleBckgrd_20
+  - first:
+      213: -5561579296192644920
+    second: PokemonBattleBckgrd_21
+  - first:
+      213: 3731301925529673063
+    second: PokemonBattleBckgrd_22
+  - first:
+      213: 1634594096246016825
+    second: PokemonBattleBckgrd_23
+  - first:
+      213: -165530471886808979
+    second: PokemonBattleBckgrd_24
+  - first:
+      213: -1001011934972315600
+    second: PokemonBattleBckgrd_25
+  - first:
+      213: -4809145309831117810
+    second: PokemonBattleBckgrd_26
+  - first:
+      213: -3994783503429520019
+    second: PokemonBattleBckgrd_27
+  - first:
+      213: 3246022273214437528
+    second: PokemonBattleBckgrd_28
+  - first:
+      213: -2312420786828469303
+    second: PokemonBattleBckgrd_29
+  - first:
+      213: 58284710443408234
+    second: PokemonBattleBckgrd_30
+  - first:
+      213: -6982281578239481862
+    second: PokemonBattleBckgrd_31
+  - first:
+      213: 3720282123147646675
+    second: PokemonBattleBckgrd_32
+  - first:
+      213: -447616870314972867
+    second: PokemonBattleBckgrd_33
+  - first:
+      213: -5449477987353896396
+    second: PokemonBattleBckgrd_34
+  - first:
+      213: 248739040408610013
+    second: PokemonBattleBckgrd_35
+  - first:
+      213: 8827042655013567434
+    second: PokemonBattleBckgrd_36
+  - first:
+      213: 9027907301828364713
+    second: PokemonBattleBckgrd_37
+  - first:
+      213: 3348993017417022605
+    second: PokemonBattleBckgrd_38
+  - first:
+      213: 5255966339856980779
+    second: PokemonBattleBckgrd_39
+  - first:
+      213: 7477237330877615519
+    second: PokemonBattleBckgrd_40
+  - first:
+      213: 5576687270272741335
+    second: PokemonBattleBckgrd_41
+  - first:
+      213: -2955115712372717394
+    second: PokemonBattleBckgrd_42
+  - first:
+      213: -6383583687945968225
+    second: PokemonBattleBckgrd_43
+  - first:
+      213: 3887931988375451741
+    second: PokemonBattleBckgrd_44
+  - first:
+      213: 634423376114861321
+    second: PokemonBattleBckgrd_45
+  - first:
+      213: 8977666250389324590
+    second: PokemonBattleBckgrd_46
+  - first:
+      213: -7983615332955553605
+    second: PokemonBattleBckgrd_47
+  - first:
+      213: 7815549310146882530
+    second: PokemonBattleBckgrd_48
+  - first:
+      213: -2453707559294666975
+    second: PokemonBattleBckgrd_49
+  - first:
+      213: -6339899571388098415
+    second: PokemonBattleBckgrd_50
+  - first:
+      213: -5962947111816999505
+    second: PokemonBattleBckgrd_51
+  - first:
+      213: -719842121204578403
+    second: PokemonBattleBckgrd_52
+  - first:
+      213: 212576669958932192
+    second: PokemonBattleBckgrd_53
+  - first:
+      213: 1331422683130971981
+    second: PokemonBattleBckgrd_54
+  - first:
+      213: 2287237241716761086
+    second: PokemonBattleBckgrd_55
+  - first:
+      213: 3520493632787300611
+    second: PokemonBattleBckgrd_56
+  - first:
+      213: 4521406682047205887
+    second: PokemonBattleBckgrd_57
+  - first:
+      213: 6310699538989385242
+    second: PokemonBattleBckgrd_58
+  - first:
+      213: -3879400549163021737
+    second: PokemonBattleBckgrd_59
+  - first:
+      213: 5317514122695239809
+    second: PokemonBattleBckgrd_60
+  - first:
+      213: -126470861478216039
+    second: PokemonBattleBckgrd_61
+  - first:
+      213: 3754990088048535806
+    second: PokemonBattleBckgrd_62
+  - first:
+      213: 8901011428100134197
+    second: PokemonBattleBckgrd_63
+  - first:
+      213: 8763406195591342763
+    second: PokemonBattleBckgrd_64
+  - first:
+      213: -4908934946472588560
+    second: PokemonBattleBckgrd_65
+  - first:
+      213: 8026349202677393645
+    second: PokemonBattleBckgrd_66
+  - first:
+      213: -6757200086152474244
+    second: PokemonBattleBckgrd_67
+  - first:
+      213: -2407858687318875796
+    second: PokemonBattleBckgrd_68
+  - first:
+      213: -1594557516684613577
+    second: PokemonBattleBckgrd_69
+  - first:
+      213: 2161691544511162576
+    second: PokemonBattleBckgrd_70
+  - first:
+      213: -5663804692125552418
+    second: PokemonBattleBckgrd_71
+  - first:
+      213: -2630189326856569953
+    second: PokemonBattleBckgrd_72
+  - first:
+      213: -5465474228442705185
+    second: PokemonBattleBckgrd_73
+  - first:
+      213: 7285364688566189392
+    second: PokemonBattleBckgrd_74
+  - first:
+      213: -5756179170075152259
+    second: PokemonBattleBckgrd_75
+  - first:
+      213: -4157176150547260434
+    second: PokemonBattleBckgrd_76
+  - first:
+      213: 3411766425329670041
+    second: PokemonBattleBckgrd_77
+  - first:
+      213: 2778495350278713165
+    second: PokemonBattleBckgrd_78
+  - first:
+      213: 4750128415678807417
+    second: PokemonBattleBckgrd_79
+  - first:
+      213: 8278730108430622486
+    second: PokemonBattleBckgrd_80
+  - first:
+      213: 8074875863358955557
+    second: PokemonBattleBckgrd_81
+  - first:
+      213: 557325885668674093
+    second: PokemonBattleBckgrd_82
+  - first:
+      213: -962074293151990556
+    second: PokemonBattleBckgrd_83
+  - first:
+      213: -3950351520890710129
+    second: PokemonBattleBckgrd_84
+  - first:
+      213: 8153733282327142964
+    second: PokemonBattleBckgrd_85
+  - first:
+      213: -7325446015618482031
+    second: PokemonBattleBckgrd_86
+  - first:
+      213: 4898509523699160586
+    second: PokemonBattleBckgrd_87
+  - first:
+      213: -3161466053762818818
+    second: PokemonBattleBckgrd_88
+  - first:
+      213: -8841881088124643352
+    second: PokemonBattleBckgrd_89
+  - first:
+      213: -5659756338621358776
+    second: PokemonBattleBckgrd_90
+  - first:
+      213: -6623360294362726644
+    second: PokemonBattleBckgrd_91
+  - first:
+      213: -3337187035000376429
+    second: PokemonBattleBckgrd_92
+  - first:
+      213: 3796312670051650427
+    second: PokemonBattleBckgrd_93
+  - first:
+      213: -4502995113629062253
+    second: PokemonBattleBckgrd_94
+  - first:
+      213: 4506453388373751583
+    second: PokemonBattleBckgrd_95
+  - first:
+      213: 8823557186647632380
+    second: PokemonBattleBckgrd_96
+  - first:
+      213: 851658767462540141
+    second: PokemonBattleBckgrd_97
+  - first:
+      213: -831519959669589068
+    second: PokemonBattleBckgrd_98
+  - first:
+      213: 4114637679957754567
+    second: PokemonBattleBckgrd_99
+  - first:
+      213: -4332280420981448718
+    second: PokemonBattleBckgrd_100
+  - first:
+      213: -3449354121398632810
+    second: PokemonBattleBckgrd_101
+  - first:
+      213: 6647867506863586110
+    second: PokemonBattleBckgrd_102
+  - first:
+      213: -9047694685736767799
+    second: PokemonBattleBckgrd_103
+  - first:
+      213: -7201125019729354746
+    second: PokemonBattleBckgrd_104
+  - first:
+      213: 1387535463845444066
+    second: PokemonBattleBckgrd_105
+  - first:
+      213: 4106973808437837922
+    second: PokemonBattleBckgrd_106
+  - first:
+      213: 1181986470516258037
+    second: PokemonBattleBckgrd_107
+  - first:
+      213: -4851463928595627911
+    second: PokemonBattleBckgrd_108
+  - first:
+      213: -5360068257679737437
+    second: PokemonBattleBckgrd_109
+  - first:
+      213: 9093800975252338038
+    second: PokemonBattleBckgrd_110
+  - first:
+      213: -3493888526273694812
+    second: PokemonBattleBckgrd_111
+  - first:
+      213: 4319881675147807799
+    second: PokemonBattleBckgrd_112
+  - first:
+      213: 1120641794423322608
+    second: PokemonBattleBckgrd_113
+  - first:
+      213: -7946196675623430541
+    second: PokemonBattleBckgrd_114
+  - first:
+      213: -5309139332858503397
+    second: PokemonBattleBckgrd_115
+  - first:
+      213: -6959962349488494221
+    second: PokemonBattleBckgrd_116
+  - first:
+      213: -6208933937793663184
+    second: PokemonBattleBckgrd_117
+  - first:
+      213: 3064696633173506508
+    second: PokemonBattleBckgrd_118
+  - first:
+      213: -419814410691735669
+    second: PokemonBattleBckgrd_119
+  - first:
+      213: 2333602299598397676
+    second: PokemonBattleBckgrd_120
+  - first:
+      213: -8712603078894764536
+    second: PokemonBattleBckgrd_121
+  - first:
+      213: -6816220794774790442
+    second: PokemonBattleBckgrd_122
+  - first:
+      213: -5384469881253914118
+    second: PokemonBattleBckgrd_123
+  - first:
+      213: 7120126412051859701
+    second: PokemonBattleBckgrd_124
+  - first:
+      213: 4648050889307026899
+    second: PokemonBattleBckgrd_125
+  - first:
+      213: 8244228023218441359
+    second: PokemonBattleBckgrd_126
+  - first:
+      213: 2110362460475746434
+    second: PokemonBattleBckgrd_127
+  - first:
+      213: 3737531038832425959
+    second: PokemonBattleBckgrd_128
+  - first:
+      213: 937420783702903744
+    second: PokemonBattleBckgrd_129
+  - first:
+      213: -9012661377576899455
+    second: PokemonBattleBckgrd_130
+  - first:
+      213: 7786712971210168928
+    second: PokemonBattleBckgrd_131
+  - first:
+      213: 2968911372134743578
+    second: PokemonBattleBckgrd_132
+  - first:
+      213: -7725155172713982225
+    second: PokemonBattleBckgrd_133
+  - first:
+      213: 7906485527585590887
+    second: PokemonBattleBckgrd_134
+  - first:
+      213: 687980946871215770
+    second: PokemonBattleBckgrd_135
+  - first:
+      213: -7840184602959909407
+    second: PokemonBattleBckgrd_136
+  - first:
+      213: 9211789200261605332
+    second: PokemonBattleBckgrd_137
+  - first:
+      213: -3093460368242022068
+    second: PokemonBattleBckgrd_138
+  - first:
+      213: -9018689795041401436
+    second: PokemonBattleBckgrd_139
+  - first:
+      213: -7273065470430380554
+    second: PokemonBattleBckgrd_140
+  - first:
+      213: 1172901114022395489
+    second: PokemonBattleBckgrd_141
+  - first:
+      213: 4770480714613772060
+    second: PokemonBattleBckgrd_142
+  - first:
+      213: -158739301662080900
+    second: PokemonBattleBckgrd_143
+  - first:
+      213: -4112216249334875326
+    second: PokemonBattleBckgrd_144
+  - first:
+      213: -6571089795222046129
+    second: PokemonBattleBckgrd_145
+  - first:
+      213: -5816080947204020403
+    second: PokemonBattleBckgrd_146
+  - first:
+      213: -4248668469677217493
+    second: PokemonBattleBckgrd_147
+  - first:
+      213: 3893870802235530999
+    second: PokemonBattleBckgrd_148
+  - first:
+      213: 6492035425457719109
+    second: PokemonBattleBckgrd_149
+  - first:
+      213: -7572339809328613695
+    second: PokemonBattleBckgrd_150
+  - first:
+      213: 5592494314634848471
+    second: PokemonBattleBckgrd_151
+  - first:
+      213: -4205291641312077514
+    second: PokemonBattleBckgrd_152
+  - first:
+      213: -4395368023841770374
+    second: PokemonBattleBckgrd_153
+  - first:
+      213: 9155855322860658164
+    second: PokemonBattleBckgrd_154
+  - first:
+      213: -3828547948928268135
+    second: PokemonBattleBckgrd_155
+  - first:
+      213: 8773500512789084305
+    second: PokemonBattleBckgrd_156
+  - first:
+      213: 5870600755728108614
+    second: PokemonBattleBckgrd_157
+  - first:
+      213: 6512955056347724283
+    second: PokemonBattleBckgrd_158
+  - first:
+      213: -5932119986246926313
+    second: PokemonBattleBckgrd_159
+  - first:
+      213: -1548403586902588115
+    second: PokemonBattleBckgrd_160
+  - first:
+      213: -4892997872289518255
+    second: PokemonBattleBckgrd_161
+  - first:
+      213: -4242783629914716734
+    second: PokemonBattleBckgrd_162
+  - first:
+      213: 5340736989388488696
+    second: PokemonBattleBckgrd_163
+  - first:
+      213: 6451736350459468165
+    second: PokemonBattleBckgrd_164
+  - first:
+      213: 5969986649432260828
+    second: PokemonBattleBckgrd_165
+  - first:
+      213: -3407798469437918793
+    second: PokemonBattleBckgrd_166
+  - first:
+      213: 3703953717472432813
+    second: PokemonBattleBckgrd_167
+  - first:
+      213: -5794722718755035954
+    second: PokemonBattleBckgrd_168
+  - first:
+      213: -936792356812444469
+    second: PokemonBattleBckgrd_169
+  - first:
+      213: -5613410896128570038
+    second: PokemonBattleBckgrd_170
+  - first:
+      213: -3917140383883139444
+    second: PokemonBattleBckgrd_171
+  - first:
+      213: 7064434340243227703
+    second: PokemonBattleBckgrd_172
+  - first:
+      213: 8990292042912234422
+    second: PokemonBattleBckgrd_173
+  - first:
+      213: -7766904583116714643
+    second: PokemonBattleBckgrd_174
+  - first:
+      213: 2741398847029508025
+    second: PokemonBattleBckgrd_175
+  - first:
+      213: 1494632020172724628
+    second: PokemonBattleBckgrd_176
+  - first:
+      213: -2933774847323797941
+    second: PokemonBattleBckgrd_177
+  - first:
+      213: -3594434167253108860
+    second: PokemonBattleBckgrd_178
+  - first:
+      213: -5818619911003280767
+    second: PokemonBattleBckgrd_179
+  - first:
+      213: 844598494916045263
+    second: PokemonBattleBckgrd_180
+  - first:
+      213: -8892645349853160287
+    second: PokemonBattleBckgrd_181
+  - first:
+      213: 960290187199274841
+    second: PokemonBattleBckgrd_182
+  - first:
+      213: -3407726081005254222
+    second: PokemonBattleBckgrd_183
+  - first:
+      213: 1800417006612811515
+    second: PokemonBattleBckgrd_184
+  - first:
+      213: 1715676297693760600
+    second: PokemonBattleBckgrd_185
+  - first:
+      213: 8586002993463162562
+    second: PokemonBattleBckgrd_186
+  - first:
+      213: 7301510259902728632
+    second: PokemonBattleBckgrd_187
+  - first:
+      213: -8838826992971514420
+    second: PokemonBattleBckgrd_188
+  - first:
+      213: 7171410099439290481
+    second: PokemonBattleBckgrd_189
+  - first:
+      213: 1036142781506948273
+    second: PokemonBattleBckgrd_190
+  - first:
+      213: -2204702630829710542
+    second: PokemonBattleBckgrd_191
+  - first:
+      213: 4775818977083290112
+    second: PokemonBattleBckgrd_192
+  - first:
+      213: -3986975952187764418
+    second: PokemonBattleBckgrd_193
+  - first:
+      213: -9209369337070710546
+    second: PokemonBattleBckgrd_194
+  - first:
+      213: -5917732806845986165
+    second: PokemonBattleBckgrd_195
+  - first:
+      213: 1781339311343577978
+    second: PokemonBattleBckgrd_196
+  - first:
+      213: 640054154905084722
+    second: PokemonBattleBckgrd_197
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1719
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb589635445112a0800000000000000
+      internalID: -6768536108715713548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4574ae3df6e1c6f00800000000000000
+      internalID: 1111296673699219284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1719
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82284c78fccc300800000000000000
+      internalID: 273821859387156663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_3
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1759
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ad59a30b168a20800000000000000
+      internalID: 3064166299012539535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_4
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1755
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8361da089ca6fab0800000000000000
+      internalID: -4974598969367633009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_5
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1753
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd096f58416ba84c0800000000000000
+      internalID: -4284411896226475811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_6
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1719
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8d3e05609db5bc0800000000000000
+      internalID: -3793199639979370304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_7
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1715
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bf9cd5041ea7cc0800000000000000
+      internalID: -3712407276245877986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_8
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1713
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23116c069d81d9ce0800000000000000
+      internalID: -1396932987504422606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1692
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd6caa76c1dc9f90800000000000000
+      internalID: -6945445874920296976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1692
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1032d6e9ff7dc0800000000000000
+      internalID: -3638915204127908405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1692
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f742582b4b7d102c0800000000000000
+      internalID: -4467052184285666177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1692
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402f0a9cb799c200800000000000000
+      internalID: 200858494689026124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1692
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b778fe2f2f6c4600800000000000000
+      internalID: 453859910899759029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_14
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1692
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d411bcf5d63f54e90800000000000000
+      internalID: -7041954791239773875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1648
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2337bd139ad8580800000000000000
+      internalID: -8823210063348682052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1645
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50962ef6afba8bca0800000000000000
+      internalID: -6000857411363903227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1648
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01586dba3221e3eb0800000000000000
+      internalID: -4738329813531065072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1648
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5217635660938b870800000000000000
+      internalID: 8698765379896766757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_19
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1668
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e581ced5948c6c210800000000000000
+      internalID: 1352988955505334366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1668
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105eaa3a167d8c8c0800000000000000
+      internalID: -3978693456424147711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_21
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1668
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8354cb81d41d2b0800000000000000
+      internalID: -5561579296192644920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_22
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1668
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d5decf45f38c330800000000000000
+      internalID: 3731301925529673063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_23
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1668
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc1ba8bae3fa610800000000000000
+      internalID: 1634594096246016825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_24
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1668
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d681fafa9eae3bdf0800000000000000
+      internalID: -165530471886808979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_25
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 1609
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387c00e2f0bb12f0800000000000000
+      internalID: -1001011934972315600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1436
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c74612db724db0800000000000000
+      internalID: -4809145309831117810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1434
+        width: 256
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653e73a19daf88c0800000000000000
+      internalID: -3994783503429520019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1434
+        width: 256
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d3ff2f003c0d20800000000000000
+      internalID: 3246022273214437528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_29
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1476
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb1cddcb81a8efd0800000000000000
+      internalID: -2312420786828469303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_30
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1475
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd0d5a2a11fc000800000000000000
+      internalID: 58284710443408234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_31
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1475
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72847f5e3f91f90800000000000000
+      internalID: -6982281578239481862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_32
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1436
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6937e41e811a330800000000000000
+      internalID: 3720282123147646675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_33
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1435
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d396769f3deb9c9f0800000000000000
+      internalID: -447616870314972867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_34
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1435
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ad570a4a09f54b0800000000000000
+      internalID: -5449477987353896396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1404
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4a351e6d2b37300800000000000000
+      internalID: 248739040408610013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1404
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbfd4de684ff7a70800000000000000
+      internalID: 8827042655013567434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1404
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a982aeebd1994d70800000000000000
+      internalID: 9027907301828364713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_38
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1404
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb766d7630a7e20800000000000000
+      internalID: 3348993017417022605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_39
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1404
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd59ee981f0f840800000000000000
+      internalID: 5255966339856980779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_40
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1404
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d00408cbb74c760800000000000000
+      internalID: 7477237330877615519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_41
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1396
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfac08968f546d40800000000000000
+      internalID: 5576687270272741335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_42
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1396
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea849dd9ae15df6d0800000000000000
+      internalID: -2955115712372717394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_43
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1396
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a00e1574f867a0800000000000000
+      internalID: -6383583687945968225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_44
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1396
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d583ff55b85b4f530800000000000000
+      internalID: 3887931988375451741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_45
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1396
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905c78203bcedc800800000000000000
+      internalID: 634423376114861321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_46
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1396
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23087693e3179c70800000000000000
+      internalID: 8977666250389324590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_47
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1358
+        width: 120
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb082d75720843190800000000000000
+      internalID: -7983615332955553605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_48
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1358
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebaad360b8667c60800000000000000
+      internalID: 7815549310146882530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_49
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1358
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127fc81a9fda2fdd0800000000000000
+      internalID: -2453707559294666975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1358
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198d2c71ee62408a0800000000000000
+      internalID: -6339899571388098415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_51
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1355
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadc4b1e13b5f3da0800000000000000
+      internalID: -5962947111816999505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_52
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1358
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97cc37976b9206f0800000000000000
+      internalID: -719842121204578403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_53
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1358
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60074ea5933f200800000000000000
+      internalID: 212576669958932192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_54
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1358
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474be940e92a7210800000000000000
+      internalID: 1331422683130971981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_55
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1355
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1629d2726edbf10800000000000000
+      internalID: 2287237241716761086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_56
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1355
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301cf408e4e4bd030800000000000000
+      internalID: 3520493632787300611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1170
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff150800c634fbe30800000000000000
+      internalID: 4521406682047205887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1170
+        width: 256
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a160fa19bcb149750800000000000000
+      internalID: 6310699538989385242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_59
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1168
+        width: 256
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75acea521c9992ac0800000000000000
+      internalID: -3879400549163021737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_60
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1230
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1886f53dbea9bc940800000000000000
+      internalID: 5317514122695239809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_61
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1226
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e372beb6fae3ef0800000000000000
+      internalID: -126470861478216039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_62
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1222
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8ee3d17976c1430800000000000000
+      internalID: 3754990088048535806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_63
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1190
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d999fbbeb68b70800000000000000
+      internalID: 8901011428100134197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_64
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1186
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaedae118fdd9970800000000000000
+      internalID: 8763406195591342763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_65
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1182
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0002cca5ffdbb0800000000000000
+      internalID: -4908934946472588560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1136
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de863dc0312536f60800000000000000
+      internalID: 8026349202677393645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_67
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1136
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7194a4a25a9932a0800000000000000
+      internalID: -6757200086152474244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_68
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1136
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6125010841959ed0800000000000000
+      internalID: -2407858687318875796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1136
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738a51c036efed9e0800000000000000
+      internalID: -1594557516684613577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1136
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8ad80b10fdffd10800000000000000
+      internalID: 2161691544511162576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1136
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed07aa004af1661b0800000000000000
+      internalID: -5663804692125552418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_72
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1151
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bb0b81eb0bf7bd0800000000000000
+      internalID: -2630189326856569953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_73
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1151
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2de94852cb624b0800000000000000
+      internalID: -5465474228442705185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_74
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1151
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d7921b590da1560800000000000000
+      internalID: 7285364688566189392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_75
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1151
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70fa28da81fd10b0800000000000000
+      internalID: -5756179170075152259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1151
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb97e5115ebe46c0800000000000000
+      internalID: -4157176150547260434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_77
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1151
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997116ecc77095f20800000000000000
+      internalID: 3411766425329670041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1086
+        width: 190
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fef6bccc23f8620800000000000000
+      internalID: 2778495350278713165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_79
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1089
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d360670a8dbe140800000000000000
+      internalID: 4750128415678807417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_80
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1089
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f9658cb25f3e270800000000000000
+      internalID: 8278730108430622486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_81
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1089
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520e2e0b0d8bf0070800000000000000
+      internalID: 8074875863358955557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_82
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1089
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a496fa0f40cb700800000000000000
+      internalID: 557325885668674093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_83
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1101
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf325178606a2f0800000000000000
+      internalID: -962074293151990556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_84
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1101
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87926bb8388d29c0800000000000000
+      internalID: -3950351520890710129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_85
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 895
+        width: 256
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432a36e4831e72170800000000000000
+      internalID: 8153733282327142964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 894
+        width: 256
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19082c129a9c65a90800000000000000
+      internalID: -7325446015618482031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_87
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 893
+        width: 256
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06d4f855700bf340800000000000000
+      internalID: 4898509523699160586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_88
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 962
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd200df573024d0800000000000000
+      internalID: -3161466053762818818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_89
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 951
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e716142ff35b4580800000000000000
+      internalID: -8841881088124643352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_90
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 953
+        width: 126
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d5531c8918471b0800000000000000
+      internalID: -5659756338621358776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_91
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 922
+        width: 152
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f351387e81514a0800000000000000
+      internalID: -6623360294362726644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_92
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 911
+        width: 152
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39373c5a21eefa1d0800000000000000
+      internalID: -3337187035000376429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_93
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 913
+        width: 152
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4eba72463fa430800000000000000
+      internalID: 3796312670051650427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_94
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 868
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39be1d25dc52281c0800000000000000
+      internalID: -4502995113629062253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_95
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 869
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f177fd20b732a8e30800000000000000
+      internalID: 4506453388373751583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_96
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 869
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf92a751382937a70800000000000000
+      internalID: 8823557186647632380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_97
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 868
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a3700323b1db00800000000000000
+      internalID: 851658767462540141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_98
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 868
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb3f349009d574f0800000000000000
+      internalID: -831519959669589068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_99
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 868
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c15d6b212a1930800000000000000
+      internalID: 4114637679957754567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_100
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 867
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff550819e5a0e3c0800000000000000
+      internalID: -4332280420981448718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_101
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 867
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e3189b3be6120d0800000000000000
+      internalID: -3449354121398632810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_102
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 867
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b377c8648f14c50800000000000000
+      internalID: 6647867506863586110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_103
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 867
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce687cbe91207280800000000000000
+      internalID: -9047694685736767799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_104
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 867
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600aadf92f6701c90800000000000000
+      internalID: -7201125019729354746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_105
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 867
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b3c32724814310800000000000000
+      internalID: 1387535463845444066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_106
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 822
+        width: 80
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26045c94be6eef830800000000000000
+      internalID: 4106973808437837922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 822
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f47078be62476010800000000000000
+      internalID: 1181986470516258037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_108
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 819
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970cf67d2432cacb0800000000000000
+      internalID: -4851463928595627911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_109
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 822
+        width: 80
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adf62981563d95b0800000000000000
+      internalID: -5360068257679737437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_110
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 822
+        width: 120
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67534045ecba33e70800000000000000
+      internalID: 9093800975252338038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_111
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 822
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b4a295e6338fc0800000000000000
+      internalID: -3493888526273694812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_112
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 822
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c87eeee7d43fb30800000000000000
+      internalID: 4319881675147807799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_113
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 797
+        width: 99
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7fe0d46c15d8f00800000000000000
+      internalID: 1120641794423322608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_114
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 625
+        width: 256
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376531a693079b190800000000000000
+      internalID: -7946196675623430541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_115
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 624
+        width: 256
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f1ae1e7e52256b0800000000000000
+      internalID: -5309139332858503397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_116
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 681
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37925ac5e1f396f90800000000000000
+      internalID: -6959962349488494221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_117
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 673
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ff0fbda7f65d9a0800000000000000
+      internalID: -6208933937793663184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_118
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 665
+        width: 124
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc974a4b95df78a20800000000000000
+      internalID: 3064696633173506508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_119
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 641
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f012b84058c2af0800000000000000
+      internalID: -419814410691735669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_120
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 633
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0e8927dee926020800000000000000
+      internalID: 2333602299598397676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_121
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 625
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eb08d39ad961780800000000000000
+      internalID: -8712603078894764536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_122
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 592
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de51d01d4be761a0800000000000000
+      internalID: -6816220794774790442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_123
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 592
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af91210db258645b0800000000000000
+      internalID: -5384469881253914118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_124
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 592
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f84a3a6f35cfc260800000000000000
+      internalID: 7120126412051859701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_125
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 592
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5751b48a1318040800000000000000
+      internalID: 4648050889307026899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_126
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 592
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c814315b1696270800000000000000
+      internalID: 8244228023218441359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_127
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 592
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e9f30a73894d10800000000000000
+      internalID: 2110362460475746434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_128
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 531
+        width: 79
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7a927da06ed330800000000000000
+      internalID: 3737531038832425959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_129
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 531
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb0ea17c33620d00800000000000000
+      internalID: 937420783702903744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_130
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 543
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c65ac6a389ce280800000000000000
+      internalID: -9012661377576899455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_131
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 543
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a98e80136ff0c60800000000000000
+      internalID: 7786712971210168928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_132
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 543
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e75b9b921b33920800000000000000
+      internalID: 2968911372134743578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_133
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 543
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69c9fcc4cbac490800000000000000
+      internalID: -7725155172713982225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_134
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 348
+        width: 256
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e818d62ba79bd60800000000000000
+      internalID: 7906485527585590887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_135
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 350
+        width: 256
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ee7ea6033c8900800000000000000
+      internalID: 687980946871215770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_136
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 348
+        width: 256
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed661784a1123390800000000000000
+      internalID: -7840184602959909407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_137
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 387
+        width: 124
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d76f53b879d6df70800000000000000
+      internalID: 9211789200261605332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_138
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 382
+        width: 124
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496f285f22d115d0800000000000000
+      internalID: -3093460368242022068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_139
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 347
+        width: 161
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ed1b1a6d27d280800000000000000
+      internalID: -9018689795041401436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_140
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 342
+        width: 161
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd76de2d71e01b90800000000000000
+      internalID: -7273065470430380554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_141
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 318
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ef6f1595bf64010800000000000000
+      internalID: 1172901114022395489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_142
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 318
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc7625fe6243240800000000000000
+      internalID: 4770480714613772060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 318
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70c988327b0ccdf0800000000000000
+      internalID: -158739301662080900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_144
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 318
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b3ec2db197ee6c0800000000000000
+      internalID: -4112216249334875326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_145
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 318
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a789875accec4a0800000000000000
+      internalID: -6571089795222046129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_146
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 318
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47acf48131294fa0800000000000000
+      internalID: -5816080947204020403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_147
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 267
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ac788982b905c0800000000000000
+      internalID: -4248668469677217493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_148
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 267
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe93803ddec90630800000000000000
+      internalID: 3893870802235530999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_149
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 238
+        width: 120
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547c8abb2d7581a50800000000000000
+      internalID: 6492035425457719109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_150
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 238
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63b6a3015a9e690800000000000000
+      internalID: -7572339809328613695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_151
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 238
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8a338e2f78c9d40800000000000000
+      internalID: 5592494314634848471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_152
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 238
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6399ca6688dc3a5c0800000000000000
+      internalID: -4205291641312077514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_153
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 238
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74fcc9e1148003c0800000000000000
+      internalID: -4395368023841770374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_154
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 238
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd9af508e1201f70800000000000000
+      internalID: 9155855322860658164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_155
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 238
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998849acce34edac0800000000000000
+      internalID: -3828547948928268135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_156
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 235
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198308d7b3cb1c970800000000000000
+      internalID: 8773500512789084305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_157
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 235
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c40579840987150800000000000000
+      internalID: 5870600755728108614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_158
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 41
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9b0bbdd1aa26a50800000000000000
+      internalID: 6512955056347724283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_159
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 124
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c1ce5d40ecada0800000000000000
+      internalID: -5932119986246926313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_160
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 124
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d250bb93427f28ae0800000000000000
+      internalID: -1548403586902588115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_161
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 124
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15de07ffb54981cb0800000000000000
+      internalID: -4892997872289518255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_162
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 124
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5471094ca9e15c0800000000000000
+      internalID: -4242783629914716734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_163
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 119
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff3a43defb1e1a40800000000000000
+      internalID: 5340736989388488696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_164
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 119
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5899c99270c298950800000000000000
+      internalID: 6451736350459468165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_165
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 119
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd00c313a37a9d250800000000000000
+      internalID: 5969986649432260828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_166
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 119
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1780be85115b0d0800000000000000
+      internalID: -3407798469437918793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_167
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 119
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da29e6a1846176330800000000000000
+      internalID: 3703953717472432813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_168
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 119
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec468b89362059fa0800000000000000
+      internalID: -5794722718755035954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_169
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 119
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcca4e79058dff2f0800000000000000
+      internalID: -936792356812444469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_170
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 119
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d03f5f7882912b0800000000000000
+      internalID: -5613410896128570038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_171
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 119
+        width: 132
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ee43239583a9c0800000000000000
+      internalID: -3917140383883139444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_172
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 119
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c44d7a99e90260800000000000000
+      internalID: 7064434340243227703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_173
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 119
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbfdccfafee3cc70800000000000000
+      internalID: 8990292042912234422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_174
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 119
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d89f6be69663490800000000000000
+      internalID: -7766904583116714643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_175
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 43
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7fbd01ab76b0620800000000000000
+      internalID: 2741398847029508025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_176
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 52
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499d15847effdb410800000000000000
+      internalID: 1494632020172724628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_177
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 52
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b460a46f1532947d0800000000000000
+      internalID: -2933774847323797941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_178
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 52
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487f9544b210e1ec0800000000000000
+      internalID: -3594434167253108860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_179
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 52
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a62a1f40c104fa0800000000000000
+      internalID: -5818619911003280767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_180
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 52
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9ec433bdd98bb00800000000000000
+      internalID: 844598494916045263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_181
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 52
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac19786b2af69480800000000000000
+      internalID: -8892645349853160287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_182
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 52
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5e4166d2a35d00800000000000000
+      internalID: 960290187199274841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_183
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 52
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b909d92f2355b0d0800000000000000
+      internalID: -3407726081005254222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_184
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 52
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe8abe7abd5cf810800000000000000
+      internalID: 1800417006612811515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_185
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 52
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c0891b08e4fc710800000000000000
+      internalID: 1715676297693760600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_186
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 52
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6ffc16b3c972770800000000000000
+      internalID: 8586002993463162562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_187
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 52
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b94f5575ec245560800000000000000
+      internalID: 7301510259902728632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_188
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 52
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd7cc41ead265580800000000000000
+      internalID: -8838826992971514420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_189
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 52
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1784abb5d77f58360800000000000000
+      internalID: 7171410099439290481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_190
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 52
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc8e4cbe5e116e00800000000000000
+      internalID: 1036142781506948273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_191
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 52
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a60663a25761e0800000000000000
+      internalID: -2204702630829710542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_192
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 52
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027e986e0e174240800000000000000
+      internalID: 4775818977083290112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_193
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 52
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31d2d1de7a6ba8c0800000000000000
+      internalID: -3986975952187764418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_194
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 52
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0968a916fb13080800000000000000
+      internalID: -9209369337070710546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_195
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 52
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a054c9d5dffdda0800000000000000
+      internalID: -5917732806845986165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_196
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 52
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba21d6aa698b810800000000000000
+      internalID: 1781339311343577978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokemonBattleBckgrd_197
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 52
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233612cdcdde1e800800000000000000
+      internalID: 640054154905084722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
