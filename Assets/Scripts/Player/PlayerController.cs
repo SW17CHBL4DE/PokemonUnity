@@ -16,13 +16,17 @@ public class PlayerController : MonoBehaviour
    public LayerMask solidObjectsLayer;
    public LayerMask grassLayer;
    public float collisionCull;
+   
+   
+   //delegate handling encounters
+   public event Action OnEncountered;
 
    private void Awake()
    {
       animator = GetComponent<Animator>();
    }
 
-   private void Update()
+   public void HandleUpdate()
    {
       if (!bIsMoving)
       {
@@ -46,8 +50,8 @@ public class PlayerController : MonoBehaviour
                
             }
          }
+         animator.SetBool("bIsMoving?", bIsMoving);
       }
-      animator.SetBool("bIsMoving?", bIsMoving);
    }
 
    IEnumerator Move(Vector3 targetPos)
@@ -75,7 +79,8 @@ public class PlayerController : MonoBehaviour
       
       if (Random.Range(1, 101) <= 10)
       {
-         Debug.Log("Encountered a wild pokemon");
+         animator.SetBool("bIsMoving?", false);
+         OnEncountered();
       }
    }
 }

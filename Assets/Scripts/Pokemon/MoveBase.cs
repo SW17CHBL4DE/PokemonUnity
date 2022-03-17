@@ -57,6 +57,22 @@ public class MoveBase : ScriptableObject
   {
     get { return moveAccuracy; }
   }
+
+  public bool bIsSpecial
+  {
+    get
+    {
+      if (MoveType == PokemonType.Fire || MoveType == PokemonType.Water || MoveType == PokemonType.Grass ||
+          MoveType == PokemonType.Ice || MoveType == PokemonType.Electric || MoveType == PokemonType.Dragon)
+      {
+        return true;
+      }
+      else
+      {
+        return false;
+      }
+    }
+  }
 }
 
 public enum MoveCategory

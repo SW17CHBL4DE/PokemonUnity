@@ -32,11 +32,14 @@ public class BattleSystem : MonoBehaviour
    //declaring battle state variable
    private BattleState state;
    private int currentAction;
+
+   public event Action<bool> OnEndBattle;
    
    //move selection
    private int currentMove;
    
-   private void Start()
+   
+   public void StartBattle()
    {
       //run setup battle coroutine
       StartCoroutine(SetupBattle());
@@ -179,11 +182,16 @@ public class BattleSystem : MonoBehaviour
       
       //set move variable to selected move
       var move = playerUnit.Pokemon.Moves[currentMove];
+      move.movePP--;
       
       //show move use text
       yield return dialogueBox.TypewriteDialogue($"{playerUnit.Pokemon.Base.Name} used {move.Base.Name}");
       
       Debug.Log("Player used = " + move.Base.Name);
+      
+      playerUnit.PlayAttackAnimation();
+      foeUnit.PlayHitAnimation();
+      yield return new WaitForSeconds(1f);
 
       //use returned class as variable to determine consequent text and update hp
       var dmgDetails = foeUnit.Pokemon.TakeDamage(move, playerUnit.Pokemon);
@@ -193,6 +201,9 @@ public class BattleSystem : MonoBehaviour
       if (dmgDetails.Fainted)
       {
          yield return dialogueBox.TypewriteDialogue($"{foeUnit.Pokemon.Base.Name} has fainted");
+         foeUnit.PlayFaintAnimation();
+         yield return new WaitForSeconds(2);
+         OnEndBattle(true);
       }
       
       //if enemy pokemon didnt faint, start their move
@@ -210,11 +221,16 @@ public class BattleSystem : MonoBehaviour
 
       //enemy pokemon move is randomly generated from their assigned move list
       var move = foeUnit.Pokemon.GetRandomMove();
+      move.movePP--;
       
       //show chosen move as text
       yield return dialogueBox.TypewriteDialogue($"{foeUnit.Pokemon.Base.Name} used {move.Base.Name}");
       
       Debug.Log("Enemy used = " + move.Base.Name);
+      
+      foeUnit.PlayAttackAnimation();
+      playerUnit.PlayHitAnimation();
+      yield return new WaitForSeconds(1f);
 
       //use returned details class to determine consequent text and update hp
       var dmgDetails = playerUnit.Pokemon.TakeDamage(move, foeUnit.Pokemon);
@@ -224,6 +240,9 @@ public class BattleSystem : MonoBehaviour
       if (dmgDetails.Fainted)
       {
          yield return dialogueBox.TypewriteDialogue($"{playerUnit.Pokemon.Base.Name} has fainted!");
+         playerUnit.PlayFaintAnimation();
+         yield return new WaitForSeconds(2f);
+         OnEndBattle(false);
       }
       
       //if player pokemon didnt faint, set state to player action through function
@@ -251,7 +270,7 @@ public class BattleSystem : MonoBehaviour
       }
    }
    
-   private void Update()
+   public void HandleUpdate()
    {
       if (state == BattleState.PlayerAction)
       {

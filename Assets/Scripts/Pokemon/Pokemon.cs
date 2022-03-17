@@ -61,7 +61,14 @@ public class Pokemon
    public DamageDetails TakeDamage(Move move, Pokemon attacker)
    {
       float critical = 1f;
+
+      float stab = 1f;
       
+      if (move.Base.MoveType == attacker.Base.Type1 || move.Base.MoveType == attacker.Base.Type2)
+      {
+         stab = 1.5f;
+      }
+
       if (Random.value * 100f <= 6.25f)
       {
          critical = 2f;
@@ -76,12 +83,17 @@ public class Pokemon
       {
          Effectiveness = effectivity,
          Critical = critical,
-         Fainted = false
+         Fainted = false,
+         Stab = stab
+         
       };
+
+      float attack = (move.Base.bIsSpecial) ? attacker.SpAttack : attacker.Attack;
+      float defence = (move.Base.bIsSpecial) ? SpDefence : Defence;
       
-      float modifiers = Random.Range(0.85f, 1f) * effectivity * critical;
+      float modifiers = Random.Range(0.85f, 1f) * effectivity * critical * stab;
       float a = (2 * attacker.Level + 10) / 250f;
-      float d = a * move.Base.movePower * ((float)attacker.Attack / Defence) + 2;
+      float d = a * move.Base.movePower * (attack / defence) + 2;
       int dmg = Mathf.FloorToInt(d * modifiers);
       
       currentHP -= dmg;
@@ -110,4 +122,7 @@ public class DamageDetails
    public float Critical            { get; set; }
    
    public float Effectiveness       { get; set; }
+   
+   public float Stab                { get; set; }
+   
 }

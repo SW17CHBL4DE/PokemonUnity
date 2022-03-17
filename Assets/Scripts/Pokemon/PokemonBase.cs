@@ -133,6 +133,7 @@ public enum PokemonType
 
 public static class TypeChart
 {
+
     static float[][] chart =
     {
         //Has to be same order as PokemonType class
