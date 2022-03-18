@@ -66,16 +66,23 @@ public class BattleSystem : MonoBehaviour
       //will run text write coroutine in text box class when this coroutine finishes
       yield return dialogueBox.TypewriteDialogue($"A wild {foeUnit.Pokemon.Base.Name} appeared!");
 
-      PlayerAction();
+      StartCoroutine(PlayerAction());
       
    }
 
    //runs function in player action state
-   void PlayerAction()
+   IEnumerator PlayerAction()
    {
-      state = BattleState.PlayerAction;
       StartCoroutine(dialogueBox.TypewriteDialogue($"What will {playerUnit.Pokemon.Base.Name} do?"));
+      state = BattleState.PlayerAction;
       dialogueBox.EnableActionSelector(true);
+
+      return null;
+   }
+
+   void OpenPartyMenu()
+   {
+      print("party screen");
    }
 
    //runs function at player move state
@@ -92,32 +99,22 @@ public class BattleSystem : MonoBehaviour
    {
       if (Input.GetKeyDown(KeyCode.RightArrow))
       {
-         if (currentAction < 3)
-         {
-            ++currentAction;
-         }
+         ++currentAction;
       }
       else if (Input.GetKeyDown(KeyCode.LeftArrow))
       {
-         if (currentAction > 0)
-         {
-            --currentAction;
-         }
+         --currentAction;
       }
       else if (Input.GetKeyDown(KeyCode.DownArrow))
       {
-         if (currentAction < 2)
-         {
-            currentAction += 2;
-         }
+         currentAction += 2;
       }
       else if (Input.GetKeyDown(KeyCode.UpArrow))
       {
-         if (currentAction > 1)
-         {
-            currentAction -= 2;
-         }
+         currentAction -= 2;
       }
+
+      currentAction = Mathf.Clamp(currentAction, 0, 3);
       
       dialogueBox.UpdateActionSelection(currentAction);
 
@@ -133,6 +130,7 @@ public class BattleSystem : MonoBehaviour
             break;
          case 2:
             //pokemon
+            OpenPartyMenu();
             break;
          case 3:
             //run
@@ -144,32 +142,22 @@ public class BattleSystem : MonoBehaviour
    {
       if (Input.GetKeyDown(KeyCode.RightArrow))
       {
-         if (currentMove < playerUnit.Pokemon.Moves.Count - 1)
-         {
-            ++currentMove;
-         }
+         ++currentMove;
       }
       else if (Input.GetKeyDown(KeyCode.LeftArrow))
       {
-         if (currentMove > 0)
-         {
-            --currentMove;
-         }
+         --currentMove;
       }
       else if (Input.GetKeyDown(KeyCode.DownArrow))
       {
-         if (currentMove < playerUnit.Pokemon.Moves.Count - 2)
-         {
-            currentMove += 2;
-         }
+         currentMove += 2;
       }
       else if (Input.GetKeyDown(KeyCode.UpArrow))
       {
-         if (currentMove > 1)
-         {
-            currentMove -= 2;
-         }
+         currentMove -= 2;
       }
+
+      currentMove = Mathf.Clamp(currentMove, 0, playerUnit.Pokemon.Moves.Count - 1);
 
       dialogueBox.UpdateMoveSelection(currentMove, playerUnit.Pokemon.Moves[currentMove]);
       
@@ -178,6 +166,12 @@ public class BattleSystem : MonoBehaviour
          dialogueBox.EnableMoveSelector(false);
          dialogueBox.EnableDialogueText(true);
          StartCoroutine(PerformPlayerMove());
+      }
+      else if (Input.GetKeyDown(KeyCode.Escape))
+      {
+         dialogueBox.EnableMoveSelector(false);
+         dialogueBox.EnableDialogueText(true);
+         PlayerAction();
       }
    }
 
@@ -250,7 +244,23 @@ public class BattleSystem : MonoBehaviour
          yield return dialogueBox.TypewriteDialogue($"{playerUnit.Pokemon.Base.Name} has fainted!");
          playerUnit.PlayFaintAnimation();
          yield return new WaitForSeconds(2f);
-         OnEndBattle(false);
+
+         var nextPokemon = playerParty.GetHealthyPokemon();
+         if (nextPokemon != null)
+         {
+            playerUnit.Setup(nextPokemon);
+            playerHUD.SetData(nextPokemon);
+
+            dialogueBox.SetMoveNames(nextPokemon.Moves);
+            
+            yield return dialogueBox.TypewriteDialogue($"Go {nextPokemon.Base.Name}!");
+
+            StartCoroutine(PlayerAction());
+         }
+         else
+         {
+            OnEndBattle(false);
+         }
       }
       
       //if player pokemon didnt faint, set state to player action through function
