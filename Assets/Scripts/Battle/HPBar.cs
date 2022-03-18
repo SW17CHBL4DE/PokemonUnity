@@ -2,15 +2,18 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HPBar : MonoBehaviour
 {
    [SerializeField] GameObject healthBar;
    public float healthBarYScale;
+   
 
    public void SetHP(float hpNormalized)
    {
       healthBar.transform.localScale = new Vector3(hpNormalized, healthBarYScale);
+      
    }
    
    public IEnumerator SetHPLerp(float newHP)
@@ -26,5 +29,6 @@ public class HPBar : MonoBehaviour
       }
 
       healthBar.transform.localScale = new Vector3(newHP, healthBarYScale);
+      
    }
 }

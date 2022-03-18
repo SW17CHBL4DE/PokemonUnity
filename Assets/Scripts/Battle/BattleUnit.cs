@@ -8,15 +8,20 @@ using DG.Tweening;
 
 public class BattleUnit : MonoBehaviour
 {
-    //ref to pokemon base class
-    //[SerializeField] PokemonBase _base;
-    
-    //pokemon level int variable
-    //[SerializeField] int level;
-    
+
     //bool for determining player control
     [SerializeField] bool bIsPlayerUnit;
+    [SerializeField] BattleHUD hud;
 
+    public bool IsPlayerUnit
+    {
+        get { return bIsPlayerUnit; }
+    }
+
+    public BattleHUD HUD
+    {
+        get { return hud; }
+    }
     //pokemon class ref, declared as property
     public Pokemon Pokemon { get; set; }
 
@@ -43,6 +48,8 @@ public class BattleUnit : MonoBehaviour
         {
             image.sprite = Pokemon.Base.F_Sprite;
         }
+        
+        hud.SetData(pokemon);
 
         image.color = orgColour;
         PlayEnterAnimation();
