@@ -9,10 +9,10 @@ using DG.Tweening;
 public class BattleUnit : MonoBehaviour
 {
     //ref to pokemon base class
-    [SerializeField] PokemonBase _base;
+    //[SerializeField] PokemonBase _base;
     
     //pokemon level int variable
-    [SerializeField] int level;
+    //[SerializeField] int level;
     
     //bool for determining player control
     [SerializeField] bool bIsPlayerUnit;
@@ -32,9 +32,9 @@ public class BattleUnit : MonoBehaviour
     }
 
     //set appropriate sprite dependent on player controlled or not
-    public void Setup()
+    public void Setup(Pokemon pokemon)
     {
-        Pokemon = new Pokemon(_base, level);
+        Pokemon = pokemon;
         if (bIsPlayerUnit)
         {
             image.sprite = Pokemon.Base.B_Sprite;

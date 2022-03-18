@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d4fdc81a25f2d54eac372759fa6c813, type: 3}
+  m_Name: QuickAttack
+  m_EditorClassIdentifier: 
+  moveName: Quick Attack
+  moveDescription: 
+  moveType: 1
+  typeSprite: {fileID: 1183002545373149881, guid: b7a032ef7ffa73545962ab9b63d84db8, type: 3}
+  moveCategory: 0
+  movePP: 30
+  movePower: 40
+  moveAccuracy: 100

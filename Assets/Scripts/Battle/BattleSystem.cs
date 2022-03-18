@@ -37,10 +37,18 @@ public class BattleSystem : MonoBehaviour
    
    //move selection
    private int currentMove;
+
+   PokemonParty playerParty;
+
+   Pokemon wildPokemon;
    
    
-   public void StartBattle()
+   public void StartBattle(PokemonParty playerParty, Pokemon wildPokemon)
    {
+
+      this.playerParty = playerParty;
+      this.wildPokemon = wildPokemon;
+      
       //run setup battle coroutine
       StartCoroutine(SetupBattle());
    }
@@ -48,9 +56,9 @@ public class BattleSystem : MonoBehaviour
    //setup battle coroutine
    public IEnumerator SetupBattle()
    {
-      playerUnit.Setup();
+      playerUnit.Setup(playerParty.GetHealthyPokemon());
       playerHUD.SetData(playerUnit.Pokemon);
-      foeUnit.Setup();
+      foeUnit.Setup(wildPokemon);
       foeHUD.SetData(foeUnit.Pokemon);
       
       dialogueBox.SetMoveNames(playerUnit.Pokemon.Moves);
