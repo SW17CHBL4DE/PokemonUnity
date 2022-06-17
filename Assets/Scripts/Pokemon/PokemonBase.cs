@@ -131,6 +131,16 @@ public enum PokemonType
     Fairy       
 }
 
+//enum for stats used in Pokemon.cs dictionary
+public enum Stat
+{
+    Attack,
+    Defence,
+    SpAttack,
+    SpDefence,
+    Speed
+}
+
 public static class TypeChart
 {
 

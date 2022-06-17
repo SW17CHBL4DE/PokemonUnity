@@ -20,3 +20,8 @@ MonoBehaviour:
   movePP: 30
   movePower: 20
   moveAccuracy: 100
+  effects:
+    boost:
+    - stat: 4
+      boost: -1
+  target: 0
